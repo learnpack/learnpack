@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+A clear and concise description of what the bug is about.
 
 **In what exercise**
 If applicable, what exercise where you trying to complete?
