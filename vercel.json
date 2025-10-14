@@ -3,6 +3,10 @@
       {
               "source": "/",
               "destination": "https://learnpack.replit.app"
+      },
+      {
+              "source": "/register",
+              "destination": "https://learn.learnpack.co/signup"
       }
     ]
   }
