@@ -2,7 +2,7 @@
     "redirects": [
       {
               "source": "/",
-              "destination": "https://www.learnpack.co"
+              "destination": "https://learnpack.replit.app"
       }
     ]
   }
